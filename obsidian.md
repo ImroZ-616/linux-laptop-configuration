@@ -2,3 +2,4 @@ this is a guide ( kind of journel actually ) that how you could download obsidia
 ```bash
 sudo apt install flatpak -y
 ```
+flatpak is a package manager which helps to download the softwares applications etc . it is just like npm
